@@ -56,4 +56,4 @@ nba에서 3점슛은 정말 팀승률에 영향을 미칠까?
 code/main.py 실행. 필요한 라이브러리는 requirements.txt.
 
 ## 배포(선택)
-스트림릿 주소:
+스트림릿 주소:https://stproject-z3yjzkmjmnkcff8ysecaeg.streamlit.app/
